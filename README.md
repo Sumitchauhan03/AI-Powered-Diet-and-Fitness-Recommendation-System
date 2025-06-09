@@ -53,12 +53,6 @@ A personalized diet and workout recommendation system using Cohere's AI API.
    streamlit run app.py
    ```
 
-## Security Notes
-
-- Never commit your `.env` file or API keys to version control
-- The `.gitignore` file is configured to exclude sensitive files
-- Use Streamlit Cloud's Secrets management for deployment
-
 ## Environment Variables
 
 - `COHERE_API_KEY`: Your Cohere API key
@@ -70,6 +64,3 @@ A personalized diet and workout recommendation system using Cohere's AI API.
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

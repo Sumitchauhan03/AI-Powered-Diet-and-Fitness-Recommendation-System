@@ -64,3 +64,7 @@ A personalized diet and workout recommendation system using Cohere's AI API.
 3. Make your changes
 4. Submit a pull request
 
+## Live working site
+
+https://ai-powered-diet-and-fitness-recommendation-system.streamlit.app/
+
